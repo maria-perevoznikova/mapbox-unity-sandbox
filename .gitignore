@@ -1,0 +1,42 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Library/
+Assets/AssetStoreTools*
+*.apk
+
+
+# ===================================== #
+# Visual Studio / MonoDevelop / Rider generated #
+# ===================================== #
+ExportedObj/
+obj/
+.vs/
+.idea/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+
+# ================= #
+# Vuforia generated #
+# ================= #
+/*/QCAR/somedata16
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
