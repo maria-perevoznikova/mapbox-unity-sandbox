@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Name: SwissBasicMapVisualizer
   m_EditorClassIdentifier: 
   Factories:
-  - {fileID: 11400000, guid: e8452361ac2d24c87a316fa238116e3d, type: 2}
   - {fileID: 11400000, guid: 6b6c6a798b018ed449bccff86fbf6fd8, type: 2}
+  - {fileID: 11400000, guid: d88a11e2551104939a94cb67775f2863, type: 2}
+  - {fileID: 11400000, guid: e8452361ac2d24c87a316fa238116e3d, type: 2}
   _loadingTexture: {fileID: 0}

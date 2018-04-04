@@ -231,10 +231,11 @@ namespace Mapbox.VectorTile
 				{
 					throw new System.Exception(string.Format("Layer [{0}] has invalid version. Only version 2.x of 'Mapbox Vector Tile Specification' (https://github.com/mapbox/vector-tile-spec) is supported.", layer.Name));
 				}
-				if (2 != layer.Version)
-				{
-					throw new System.Exception(string.Format("Layer [{0}] has invalid version: {1}. Only version 2.x of 'Mapbox Vector Tile Specification' (https://github.com/mapbox/vector-tile-spec) is supported.", layer.Name, layer.Version));
-				}
+				// TODO geoAR: version check is temporaraly disabled; find out difference between MVT specs v1 and v2
+//				if (2 != layer.Version)
+//				{
+//					throw new System.Exception(string.Format("Layer [{0}] has invalid version: {1}. Only version 2.x of 'Mapbox Vector Tile Specification' (https://github.com/mapbox/vector-tile-spec) is supported.", layer.Name, layer.Version));
+//				}
 				if (0 == layer.Extent)
 				{
 					throw new System.Exception(string.Format("Layer [{0}] has no extent.", layer.Name));
