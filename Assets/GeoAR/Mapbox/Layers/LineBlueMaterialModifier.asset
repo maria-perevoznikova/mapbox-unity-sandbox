@@ -9,12 +9,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 76c93f3debdba4e48adb1b99cad0a0d2, type: 3}
-  m_Name: LineMaterialModifier
+  m_Name: LineBlueMaterialModifier
   m_EditorClassIdentifier: 
   Active: 1
   _projectMapImagery: 0
   _materials:
-  - Materials:
-    - {fileID: 2100000, guid: caa6c6f6f7879034992a27a6bc3794fd, type: 2}
   - Materials:
     - {fileID: 2100000, guid: 55643c4fd976d7e429bda0a90c976b14, type: 2}
