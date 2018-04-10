@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Name: LakesVectorTileFactory
   m_EditorClassIdentifier: 
   _mapId: water:20_DKM1M_GEWAESSER_PLY
-  _useAlternativeDataSource: 1
+  _useGeoServer: 1
+  _gridset: EPSG:2056
   Visualizers:
   - {fileID: 11400000, guid: a79b552c4571948c6acfd209dded67f0, type: 2}

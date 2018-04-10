@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Name: HorGridVectorTileFactory
   m_EditorClassIdentifier: 
   _mapId: test:linesH
-  _useAlternativeDataSource: 1
+  _useGeoServer: 1
+  _gridset: EPSG:2056
   Visualizers:
   - {fileID: 11400000, guid: 116fe082b9f334cabac3fb0a165d1c7f, type: 2}

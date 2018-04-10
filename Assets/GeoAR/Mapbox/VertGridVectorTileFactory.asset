@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Name: VertGridVectorTileFactory
   m_EditorClassIdentifier: 
   _mapId: test:linesV
-  _useAlternativeDataSource: 1
+  _useGeoServer: 1
+  _gridset: EPSG:2056
   Visualizers:
   - {fileID: 11400000, guid: 6751094f3ad9e46da9317175be92d941, type: 2}

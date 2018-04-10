@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Name: RiversVectorTileFactory
   m_EditorClassIdentifier: 
   _mapId: water:21_DKM1M_GEWAESSER_LIN
-  _useAlternativeDataSource: 1
+  _useGeoServer: 1
+  _gridset: EPSG:2056
   Visualizers:
   - {fileID: 11400000, guid: 7aa418faa86ec4da1bb7e5dc97117ab6, type: 2}
