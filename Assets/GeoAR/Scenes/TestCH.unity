@@ -296,7 +296,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &778517669
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -309,7 +309,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _west: 1
-  _north: 0
+  _north: 1
   _east: 2
   _south: 1
 --- !u!114 &778517670
@@ -370,7 +370,7 @@ Transform:
   m_GameObject: {fileID: 1177474553}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0.5, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
   m_Children: []
   m_Father: {fileID: 1299718536}
   m_RootOrder: 1
@@ -567,7 +567,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1605068644
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -579,8 +579,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6675b847ded4748298655221afbec68b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _west: 2
-  _north: 0
+  _west: 1
+  _north: 1
   _east: 1
   _south: 1
 --- !u!114 &1605068645
@@ -600,7 +600,7 @@ MonoBehaviour:
   _root: {fileID: 1419246185}
   _tileProvider: {fileID: 1605068644}
   _mapVisualizer: {fileID: 11400000, guid: 347bd625d863840498789416c71d54f2, type: 2}
-  _unityTileSize: 30
+  _unityTileSize: 22.56
   _snapMapHeightToZero: 1
 --- !u!4 &1605068646
 Transform:
@@ -610,7 +610,7 @@ Transform:
   m_GameObject: {fileID: 1605068643}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0, y: 0, z: 0}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 5
