@@ -13,7 +13,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _moveFeaturePositionTo: 0
   MeshModifiers:
-  - {fileID: 11400000, guid: a5aea13764e3c421abfd3f81cbabca7f, type: 2}
+  - {fileID: 11400000, guid: 02ba39477ca484256b1ba09f2a4660dc, type: 2}
   - {fileID: 11400000, guid: 58109133a56a04c5eb9b26b1285e1d57, type: 2}
   GoModifiers:
   - {fileID: 11400000, guid: b5d20494e131a44ddb7a08c21070c996, type: 2}
