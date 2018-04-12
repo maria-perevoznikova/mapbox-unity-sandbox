@@ -11,6 +11,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 63d97cb1cfb3f1b499c24763afa54873, type: 3}
   m_Name: BordersVectorTileFactory
   m_EditorClassIdentifier: 
-  _mapId: mschoenhozer.9bdivm08
+  _mapId: borders:swissBOUNDARIES3D_1_3_TLM_KANTONSGRENZE
+  _useGeoServer: 1
+  _gridset: EPSG:2056
   Visualizers:
   - {fileID: 11400000, guid: 9d3cbbbf022b84ac7ac12cb250ac1601, type: 2}

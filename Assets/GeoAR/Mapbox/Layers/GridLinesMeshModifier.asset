@@ -9,7 +9,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 9e1e9c060b6589e4e8b990a9c709bcdd, type: 3}
-  m_Name: LineGridMeshModifier
+  m_Name: GridLinesMeshModifier
   m_EditorClassIdentifier: 
   Active: 1
   Width: 200

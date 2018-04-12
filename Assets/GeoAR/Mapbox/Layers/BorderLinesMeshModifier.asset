@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Name: BorderLinesMeshModifier
   m_EditorClassIdentifier: 
   Active: 1
-  Width: 100
+  Width: 400

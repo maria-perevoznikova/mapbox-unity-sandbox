@@ -13,9 +13,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Active: 1
   _classificationKey: 
-  _key: GemeindenLines-wgs84-5vf1lx
+  _key: swissBOUNDARIES3D_1_3_TLM_KANTONSGRENZE
   Filters: []
-  _defaultStack: {fileID: 11400000, guid: cc67ed25a2b06480692820f9329d98aa, type: 2}
+  _defaultStack: {fileID: 11400000, guid: 6d0e2e29be46d4394b350893bc011376, type: 2}
   Stacks: []
   _enableCoroutines: 0
   _entityPerCoroutine: 20
