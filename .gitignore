@@ -6,9 +6,13 @@ Library/
 Assets/AssetStoreTools*
 *.apk
 
+# =============== #
+# Mapbox config   #
+# =============== #
+Assets/Resources/Mapbox/MapboxConfiguration.*
 
 # ===================================== #
-# Visual Studio / MonoDevelop / Rider generated #
+# Visual Studio / MonoDevelop / Rider   #
 # ===================================== #
 ExportedObj/
 obj/
