@@ -1,1 +1,1 @@
-{"Url":"http://localhost:8580/"}
+{"Url":"http://localhost:8580/geoserver/"}
